@@ -10,7 +10,7 @@ I find it useful to start with the questions.md file and use it as a template to
 
 If a question doesn't make sense for the project you're looking at, skip it. If the question is relevant but you can't find any answer, say so in the document.
 
-The [Decred](answers/decred.md) and [Dash](answers/dash.md) markdown documents have been prepared as examples of a reasonable effort to answer the questions well - it is worth looking at at least one of these before attempting to research and write up a project according to this methodology.
+The [Decred](/answers/decred.md) and [Dash](/answers/dash.md) markdown documents have been prepared as examples of a reasonable effort to answer the questions well - it is worth looking at at least one of these before attempting to research and write up a project according to this methodology.
 
 There is no requirement to achieve any specific degree of polish before opening a pull request - pull requests will be accepted where they add statements which are backed by **credible sources**. 
 
