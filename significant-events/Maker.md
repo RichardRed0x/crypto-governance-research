@@ -3,4 +3,6 @@ February saw MKR holders voting in two separate 0.5% increases in the Stability 
 
 ![Maker Governance Vote](../answers/img/maker/Maker_vote_screenshot.png )
 
+**Screenshot of Governance Vote Dashboard (3:25pm PST, 3/6/2019)**
+
 Decisions around Stability Fees and other issues discussed in Maker's governance and risk meetings are streamed live and later made available as YouTube videos, transcripts and meeting notes collected [here](https://github.com/atleastaverage/MakerDAO_minutes/blob/master/README.md).
