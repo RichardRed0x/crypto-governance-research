@@ -47,7 +47,7 @@ Aragon governance proposals (AGPs) concern the "management, allocation, or use o
 
 In the [first round](https://blog.aragon.org/final-results-from-aragon-network-vote-1/) of proposal voting, completed in January 2019, 12 proposals were submitted and 3 were not approved by the Aragon Association, leaving 9 to be voted on.
 
-In total (including AGP-1) there have been 10 AGPs put to a vote, with mean ANT participation of 6% (median 5%).
+In total (including AGP-1) there have been 10 AGPs put to a vote, with mean ANT participation of 4.5% (median 3.5%).
 
 ### Comparing participation and outcomes between projects
 
