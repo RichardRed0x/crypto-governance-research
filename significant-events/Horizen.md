@@ -1,0 +1,3 @@
+December 2018
+
+The [Horizen](https://www.horizen.global/) (previously ZenCash) team lead recently announced a [strategic action](https://blog.zencash.com/re-strategic-actions-for-horizen-from-rolf-versluis/) to increase the Treasury block rewards from 10% to 20%, reducing the share of rewards for miners. After a 90% reduction in price, and significant reductions to staffing and other costs, it was felt that to cut costs any further would mean jeopardizing the project. As the Treasury system being developed by IOHK is still a [prototype](https://blog.zencash.com/dao-prototype/) not yet ready for use, the Horizen team felt the need to make a unilateral decision to change the block reward.

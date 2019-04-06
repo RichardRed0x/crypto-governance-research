@@ -1,13 +1,10 @@
 ### Where does the governance happen?
 
-This is in many ways the main question I'm interested in, if you don't want to cover a project in detail it is fine to open a file which just records notes about where the governance is happening and maybe any significant events.
+AGP proposals
 
-- Custom platforms (e.g. politeia, Dash nexus)
-- github
-- reddit
-- twitter
-- chat (irc/slack/discord/telegram/matrix)
-- private
+Aragon NEST proposal funding
+
+
 
 
 
@@ -93,6 +90,10 @@ Are there any significant projects which are related? For example, is this a for
 
 
 ### Significant Entities
+
+Aragon One: 
+
+
 
 Name:
 
