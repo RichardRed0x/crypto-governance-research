@@ -1,4 +1,4 @@
-This repository is for storing blockchain governance data-sets. Specifically, there is a [template](proposal-template.csv) for quantitative proposal data which records outcomes and participation rates.
+This folder is for storing blockchain governance data-sets. Specifically, there is a [template](proposal-template.csv) for quantitative proposal data which records outcomes and participation rates.
 
 The precise definition of a proposal and what it covers varies from project to project. I have defined it as any issue that is resolved through a binding vote.
 
