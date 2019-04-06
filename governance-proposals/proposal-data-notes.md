@@ -27,9 +27,9 @@ Politeia proposal data was collected from the proposal [mainnet](https://github.
 
 * [Dash proposals](dash-proposals.csv)
 
-Dash proposals and voting are on-chain, and the proposal system operates on a monthly (16616 blocks) timetable. Dash voters are masternode operators, each masternode must hold 1,000 DASH as collateral, and maintain a node which meets a certain specification. Masternodes facilitate Instantsend and Privatesend transactions.  
+Dash proposals and voting are [on-chain](https://docs.dash.org/en/stable/governance/index.html), and the proposal system operates on a monthly (16616 blocks) timetable. Dash voters are [masternode](https://docs.dash.org/en/stable/masternodes/index.html) operators, each masternode must hold 1,000 DASH as collateral, and maintain a node which meets a certain specification. Masternodes facilitate [Instantsend and Privatesend](https://docs.dash.org/en/stable/introduction/features.html) transactions.  
 
-There is a limited amount of DASH available in each superblock, and it is awarded to the proposals which have the highest Yes - No score (proposals must also satisfy a condition that their yes - no score is greater than 10% of the active masternodes). At the time of the superblock, the winning proposals are paid out and when there are no more eligible proposals that can be paid with the remaining DASH, the remainder is burned. 
+There is a limited amount of DASH available in each [superblock](https://docs.dash.org/en/stable/governance/understanding.html#budget-allocation), and it is awarded to the proposals which have the highest Yes - No score (proposals must also satisfy a condition that their yes - no score is greater than 10% of the active masternodes). At the time of the superblock, the winning proposals are paid out and when there are no more eligible proposals that can be paid with the remaining DASH, the remainder is burned. 
 
 Dash proposals predominantly relate to Treasury spending, although there are a few which have been used to signal for other decisions. It costs 5 DASH ($650) to submit a proposal. 
 
