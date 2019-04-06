@@ -1,11 +1,5 @@
 ### Where does the governance happen?
 
-AGP proposals
-
-Aragon NEST proposal funding
-
-
-
 
 
 # Blockchain Governance
