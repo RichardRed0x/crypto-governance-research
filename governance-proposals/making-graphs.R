@@ -2,11 +2,21 @@ library(ggplot2)
 
 
 
-
-
 aragon = read.csv("Aragon-proposals.csv", stringsAsFactors = FALSE)
 aragon$eligible_voters = 39609523.80952380954
+
+aragon$total_votes = aragon$yes_votes+aragon$no_votes
 aragon$voter_participation = (aragon$total_votes/aragon$eligible_voters)*100
+write.csv(aragon, file = "Aragon-proposals.csv", row.names = FALSE)
+
+p.aragon = ggplot(aragon, aes(voter_participation, fill = voting_startdate))+
+  geom_histogram(bins = 10)+
+  xlab("Voter participation %")+
+  ylab("Number of proposals")+
+  ggtitle("aragon proposals")+
+  ylim(c(0,10))
+
+
 
 #write.csv(aragon, file = "Aragon-proposals.csv", row.names = FALSE)
 
@@ -24,6 +34,8 @@ decred.consensus$onchain = "yes"
 decred = rbind(decred.politeia,decred.consensus)
 
 df = rbind(aragon,dash,decred.politeia, decred.consensus)
+df$approval = (df$yes_votes/df$total_votes)*100
+
 
 p.participation = ggplot(df, aes(x = voter_participation, fill = onchain))+
   geom_histogram(bins = 20)+
@@ -72,5 +84,10 @@ p.approval = ggplot(df, aes(x = approval, fill = onchain))+
   ylab("Number of proposals")+  
 
 ggsave("proposals-approval.png", width = 9.55, height = 5)
+
+
+aragon$approval = (aragon$yes_votes/aragon$total_votes)*100
+aragonround2 = aragon[aragon$voting_startdate == "2019-04-25 00:00",]
+
 
 
