@@ -2,3 +2,4 @@ title,url,yes_votes,no_votes,total_votes,voter_participation,voting_startdate,vo
 Start Lightning Network Support,https://voting.decred.org/,29111,408,,,2017-05-14 11:56,2017-06-11 12:11,Decred,38129,yes
 Change PoS Staking Algorithm,https://github.com/decred/dcps/blob/master/dcp-0001/dcp-0001.mediawiki,32770,693,,,2017-05-14 11:56,2017-06-11 12:11,Decred,38129,yes
 Enable Lightning Network Features,https://github.com/decred/dcps/blob/master/dcp-0002/dcp-0002.mediawiki,22283,110,,,2017-10-01 05:59,2017-10-29 03:48,Decred,35994,yes
+Update Sequence Lock Rules,https://github.com/decred/dcps/blob/master/dcp-0004/dcp-0004.mediawiki,19553,3,19556,,2019-03-14 13:58,Decred,40320,yes
