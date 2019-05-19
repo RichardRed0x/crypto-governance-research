@@ -1,7 +1,6 @@
 ### Where does the governance happen?
 
 
-
 # Blockchain Governance
 
 * Does the project have its own blockchain or is it a token on another chain? (many questions are not relevant for tokens)
