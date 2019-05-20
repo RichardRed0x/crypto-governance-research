@@ -1,6 +1,6 @@
 ### Where does the governance happen?
 
-Mostly on chain with Bakers, also to some degree on other sites like [Kialo](https://www.kialo.com/tezos-protocol-amendment-1-25295) and [tezvote](https://tezvote.com/). 
+Mostly [on chain](https://tzscan.io/proposals) with Bakers, also to some degree on other sites like [Kialo](https://www.kialo.com/tezos-protocol-amendment-1-25295) and [tezvote](https://tezvote.com/). 
 
 
 
@@ -34,7 +34,9 @@ Holders who delegate their XTZ to bakers have no direct input into decision-maki
 
 ### Further reading 
 
-List good sources for further reading.
+<https://tezos.gitlab.io/mainnet/>
+
+
 
 # Funding
 
