@@ -40,24 +40,23 @@ Holders who delegate their XTZ to bakers have no direct input into decision-maki
 
 # Funding
 
-* What is the reference node implementation?
-
-* Any other full node implementations?
-
-
-
-## For the reference node implementation
-
-
+There is only one [implementation](https://gitlab.com/tezos/tezos/) of a Tezos full/baking node.
 
 ### How is development funded?
 
-- Donations
-- ICO
-- Block reward
-- Foundation/company
-- Grants
-- Not public/known
+The Tezos Foundation was established in 2017 to hold most of the ICO proceeds (and some XTZ), with a mandate to use these funds to "support to Tezos and related technologies as well as to the Tezos community". The foundation has a [council](https://tezos.foundation/tezos-foundation-council) of 5 people who steer its direction and how it allocates its capital.
+
+Some of the ICO proceeds were [allocated](https://steemit.com/cryptocurrency/@roshania/tezos-ico-transparency-memo) to DLS along with an a portion of the initial XTZ tokens. DLS was created by Arthur Breitman to hold the IP for Tezos protocol software, trademarks, etc. Tezos Foundation and DLS entered into a contract whereby the Foundation would pay 8.5% of the ICO proceeds (around $20 million at the time) to acquire DLS and its assets, then release all of the software under a free MIT license. This deal was included in the ICO terms, with a stipulation that it would be completed once the Tezos mainnet had been in operation and stable for 3 months. The Tezos Foundation and DLS were also granted 76 million XTZ each, with DLS's allocation on a 48 month vesting schedule.
+
+There is very little information available about how the Foundation is allocating its funds. There are [often](https://tezos.foundation/news/tezzigator-receives-grant-to-expand-cloud-hsm-support-for-tezos-bakers) [news](https://tezos.foundation/news/supporting-the-development-of-block-explorers-and-smart-contract-languages-for-the-tezos-ecosystem) [items](https://tezos.foundation/news/tezos-foundation-supports-tezos-riot-forum) on the foundation website that say a particular team/project is being funded, but these have no information about how much funding is being given. 
+
+The foundation is being [audited](https://tezos.foundation/news/statement-on-2017-statutory-audit-completed-by-pwc-switzerland) by PwC but no details of its finances are being openly published. 
+
+The Foundation's grant programs [page](https://tezos.foundation/grants-overview) describes Research and Education, Ecosystem, and Community funding streams, but the first two are lacking detail and "RFPs are forthcoming" while the community page just lists some organizations that have received funding.
+
+The grants page says this about the selection process (advisors vote on proposals then the 5-person council vote to approve those the advisors put forward).
+
+> The Foundation’s grantmaking efforts will be administered by the Tocqueville Group, an independent professional services company. All grant proposals are evaluated by an advisory committee before recommendations are sent to the Council for final votes. An advisory committee is composed of scientists and researchers from premier institutions, Tezos developers, serial entrepreneurs, and other qualified community members. A majority of an advisory committee must recommend a proposal in order for it to be sent to the Council for a final vote. Moving forward, only proposals that respond to specific RFPs will be considered. RFPs will be issued on a quarterly basis.
 
 ##### How much or what proportion from each type of source?
 
