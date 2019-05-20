@@ -59,7 +59,7 @@ The MKR token was launched on Dec 27, 2017. 1,000,000 MKR were premined. Maker d
 
 In 2017, the Maker foundation made its first institutional sale to Polychain Capital, a deal which was publicly [negotiated](https://www.reddit.com/r/MakerDAO/comments/5mxwxw/polychain_capital_proposal_to_makerdao/) with community input on the MakerDAO subreddit. Subsequent sales to other institutional investors such as Andreesen Horowitz, Placeholder VC, and others, were modeled on this deal, according to founder Rune Christensen in a [podcast](https://unchainedpodcast.com/rune-christensen-of-makerdao-part-1-how-to-keep-a-crypto-collateralized-stablecoin-afloat/), where Maker distribution is discussed generally. 
 
-While wider distribution of MKR is planned, MKR is fairly concentrated among a few key players. As reported in a CoinDesk [article](https://www.coindesk.com/makerdao-dai-fee-hike-vote) on March 6, 2019, according to [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances), the top three MKR accounts hold a combined 55 percent of tokens. At the time of the article's publication, the largest wallet, containing 27% of the supply, is a developer fund. This fund is controlled by a multi-signature wallet controlled by the Maker Foundation’s board. According to MakerDAO community lead David Utrobin, the Maker Foundation's intention is to fully spend this fund "within the next few years". In the article, several large MKR holders were asked for information on their holdings. Polychain capital confirmed it held
+While wider distribution of MKR is planned, MKR is fairly concentrated among a few key players. As reported in a CoinDesk [article](https://www.coindesk.com/makerdao-dai-fee-hike-vote) on March 6, 2019, according to [Etherscan](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2#balances), the top three MKR accounts hold a combined 55 percent of tokens. At the time of the article's publication, the largest wallet, containing 27% of the supply, is a developer fund. This fund is controlled by a multi-signature wallet controlled by the Maker Foundation’s board. According to MakerDAO community lead David Utrobin, the Maker Foundation's intention is to fully spend this fund "within the next few years". On March 15th (2019) David relayed in MakerDAO's chat that there were "around 270k MKR". In the article, several large MKR holders were asked for information on their holdings. Polychain capital confirmed it held
 “a significant portion” of MKR tokens. 6 percent is owned by Andreessen Horowitz’s a16z fund. Hedge fund 1confirmation confirmed they are a "significant holder". The Ethereum Foundation and Ethereum co-founder Joseph Lubin declined to comment regarding their holdings. 
 
 
@@ -102,7 +102,7 @@ N/A
 
 ### How is development funded?
 
-Same source as general funding?
+Development is funded by the Maker Foundation in the form of salaried developers and grants to fund projects that benefit the ecosystem. It should also be noted that the Maker ecosystem is designed so that external actors (keepers, market makers, etc.) profit from their role in the system. Therefore presumably some development costs are funded by external actors themselves. 
 
 ##### How much or what proportion from each type of source?
 
