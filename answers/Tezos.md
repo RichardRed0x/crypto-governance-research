@@ -4,7 +4,7 @@ Mostly [on chain](https://tzscan.io/proposals) with Bakers, also to some degree 
 
 # Blockchain Governance
 
-Tezos uses Proof of Stake consensus and selects "bakers" to produce blocks based on the number of "rolls" of XTZ they have. The minimum roll size is 10,000 XTZ (soon to be 8,000 XTZ following the first [upgrade](https://www.coindesk.com/welcome-to-athens-tezos-completes-historic-first-blockchain-vote) approval) or about $16,700 at 05/21/2019 prices. Holders can also delegate their XTZ to bakers, who use it to add rolls to their stake and improve their chances of being selected to bake - bakers pass some of the reward back to the delegators minus a [fee](https://mytezosbaker.com/) of 5-33%. 
+Tezos uses Proof of Stake consensus and selects "bakers" to produce blocks based on the number of "rolls" of XTZ they have. The minimum roll size is 10,000 XTZ (soon to be 8,000 XTZ following the first [upgrade](https://www.coindesk.com/welcome-to-athens-tezos-completes-historic-first-blockchain-vote) approval) or about $16,700 at 05/21/2019 prices. Holders can also delegate their XTZ to bakers, who use it to add rolls to their stake and improve their chances of being selected to bake - bakers pass some of the reward back to the delegators minus a [fee](https://mytezosbaker.com/) of 5-33%. On May 21 2019 there [are](https://tzscan.io/context) 447.5 million XTZ delegated of a total 564.5 million XTZ staked (79% delegated). 
 
 * *How were/are coins distributed? Was there an ICO? Is there inflation now? Is there a fixed supply?*
 
