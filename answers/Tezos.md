@@ -2,11 +2,9 @@
 
 Mostly [on chain](https://tzscan.io/proposals) with Bakers, also to some degree on other sites like [Kialo](https://www.kialo.com/tezos-protocol-amendment-1-25295) and [tezvote](https://tezvote.com/). 
 
-
-
-
-
 # Blockchain Governance
+
+Tezos uses Proof of Stake consensus and selects "bakers" to produce blocks based on the number of "rolls" of XTZ they have. The minimum roll size is 10,000 XTZ (soon to be 8,000 XTZ following the first [upgrade](https://www.coindesk.com/welcome-to-athens-tezos-completes-historic-first-blockchain-vote) approval) or about $16,700 at 05/21/2019 prices. Holders can also delegate their XTZ to bakers, who use it to add rolls to their stake and improve their chances of being selected to bake - bakers pass some of the reward back to the delegators minus a [fee](https://mytezosbaker.com/) of 5-33%. 
 
 * *How were/are coins distributed? Was there an ICO? Is there inflation now? Is there a fixed supply?*
 
@@ -58,62 +56,15 @@ The grants page says this about the selection process (advisors vote on proposal
 
 > The Foundation’s grantmaking efforts will be administered by the Tocqueville Group, an independent professional services company. All grant proposals are evaluated by an advisory committee before recommendations are sent to the Council for final votes. An advisory committee is composed of scientists and researchers from premier institutions, Tezos developers, serial entrepreneurs, and other qualified community members. A majority of an advisory committee must recommend a proposal in order for it to be sent to the Council for a final vote. Moving forward, only proposals that respond to specific RFPs will be considered. RFPs will be issued on a quarterly basis.
 
-##### How much or what proportion from each type of source?
-
-
-
-###### How are funds managed?
-
-- Non-profit foundation
-- For-profit company
-- Community voting/DAO mechanism
-
-
-
-**What other software does the entity(ies) which funds the reference node produce?** 
-
-
-
-**What else do the entities which develop or fund the reference node do? (not software)**
-
-
-
-
-
 #### How is work other than development (e.g. marketing) funded?
 
-Scope of non-development work funded?
-
-Spend on non-development work?
+As noted above, the Foundation website mentions Research and Education programs, but provides no detail. It seems ecosystem and community partners are being funded.
 
 ### Related projects
 
-Are there any significant projects which are related? For example, is this a fork of another project? Have other projects forked this one? 
-
-Tezos Libre? The KYC-free alternative chain
+Tezos Libre [is](https://tzlibre.github.io/)/[was](https://www.reuters.com/brandfeatures/venture-capital/article?id=38757) an attempt to create a rival Tezos chain which would grant tokens to people who participated in the Tezos ICO and claimed them. Tezos Libre was created as a rejection of the decision to require KYC verification for Tezos ICO participants before they could receive their tokens - it billed itself as KYC-free.  
 
 ### Significant Entities
 
-Tezos Foundation 
+Tezos Foundation and DLS mentioned above.
 
-
-
-
-
-
-
-
-
-Name:
-
-Type: profit/non-profit
-
-Activity type: Investment, grant-making, product/service delivery
-
-Managed how:
-
-Founded when and by who
-
-Size: Resources, Employees
-
-Links to coins/chains other than the one in question
