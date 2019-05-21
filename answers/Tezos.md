@@ -20,7 +20,7 @@ The process of adding new blocks to Tezos is referred to as Baking, and so Baker
 
 * *Which entities interact with the blockchain? What role does each entity play? How are the "block producers" selected?*
 
-Bakers are the only entities that participate in creating new blocks, they do so by baking a new block when randomly selected, and by endorsing the new blocks of other bakers (a single block can have many endorsers, and the reward for endorsing is smaller than for baking). Through this method of baking and endorsing, rival blocks engage in short-term competition but are quickly locked in as subsequent blocks are baked. When proposing or endorsing new blocks, a Baker puts up some of their stake as a security deposit - if other bakers observe them double baking or endorsing (and possibly other types of bad behavior) they can be accused and lose this security deposit (with half going to the accuser).
+[Bakers](https://tezos.gitlab.io/mainnet/whitedoc/proof_of_stake.html) are the only entities that participate in creating new blocks, they do so by baking a new block when randomly selected, and by endorsing the new blocks of other bakers (a single block can have many endorsers, and the reward for endorsing is smaller than for baking). Through this method of baking and endorsing, rival blocks engage in short-term competition but are quickly locked in as subsequent blocks are baked. When proposing or endorsing new blocks, a Baker puts up some of their stake as a security deposit - if other bakers observe them double baking or endorsing (and possibly other types of bad behavior) they can be accused and lose this security deposit (with half going to the accuser). 
 
 * *How are changes to the consensus rules decided on and implemented?*
 
