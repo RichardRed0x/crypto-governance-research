@@ -1,6 +1,8 @@
 ## Draft, this is a work in progress and not ready for publication
 
-This text and accompanying data-set (and soon graphic) gives an overview of the role that stakeholders (people who hold the asset and use their holdings to participate in PoS) play in blockchain projects with stake-based governance.
+This text and accompanying [data-set](staking_overview.csv) (and soon graphic) gives an overview of the role that stakeholders (people who hold the asset and use their holdings to participate in PoS) play in blockchain projects with stake-based governance.
+
+![Very rough mockup](staking-3-dimensions-mockup.jpg)
 
 The ways in which stakeholders exercise control of the project can be thought of in terms of 3 broad areas.
 
