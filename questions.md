@@ -19,6 +19,8 @@
 
 * Which entities interact with the blockchain? What role does each entity play? How are the "block producers" selected?
 
+* How are changes to the consensus rules implemented?
+
 * How were/are coins distributed? Was there an ICO? Is there inflation now? Is there a fixed supply?
 
 * Has the project been re-branded or re-named at any point?
