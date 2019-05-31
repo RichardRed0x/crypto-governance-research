@@ -28,7 +28,7 @@ Bakers participate in a four-stage voting [process](https://medium.com/tezos/ame
 
 Holders who delegate their XTZ to bakers have no direct input into decision-making votes, but bakers [may engage](https://twitter.com/JacobArluck/status/1113590733771018245) with their delegators when deciding how to vote.
 
-
+There is only one [implementation](https://gitlab.com/tezos/tezos/) of a Tezos full/baking node.
 
 ### Further reading 
 
@@ -37,8 +37,6 @@ Holders who delegate their XTZ to bakers have no direct input into decision-maki
 
 
 # Funding
-
-There is only one [implementation](https://gitlab.com/tezos/tezos/) of a Tezos full/baking node.
 
 ### How is development funded?
 
@@ -55,6 +53,8 @@ The Foundation's grant programs [page](https://tezos.foundation/grants-overview)
 The grants page says this about the selection process (advisors vote on proposals then the 5-person council vote to approve those the advisors put forward).
 
 > The Foundation’s grantmaking efforts will be administered by the Tocqueville Group, an independent professional services company. All grant proposals are evaluated by an advisory committee before recommendations are sent to the Council for final votes. An advisory committee is composed of scientists and researchers from premier institutions, Tezos developers, serial entrepreneurs, and other qualified community members. A majority of an advisory committee must recommend a proposal in order for it to be sent to the Council for a final vote. Moving forward, only proposals that respond to specific RFPs will be considered. RFPs will be issued on a quarterly basis.
+
+This [article](https://medium.com/tocqueville-group/why-tezos-is-the-best-platform-for-tokenized-assets-89a960cfa828) from the Tocqueville Group describes a mechanism whereby a new protocol upgrade could be bundled with a reward for the developers in the form of newly minted coins (inflation). So far, this method has only been used to distribute 100 XTZ to the developers behind the Athens upgrade for a round of drinks, but the idea is that in future developers may include rewards for themselves in their protocol upgrade proposals.
 
 #### How is work other than development (e.g. marketing) funded?
 
