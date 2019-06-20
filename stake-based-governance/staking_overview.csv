@@ -1,7 +1,7 @@
 project,consensus,Stake-actors,block_validation,block_validation_num,consensus_changes,consensus_changes_num,treasury,treasury_num
 Decred,PoS/PoW,~40960,Direct,0.95,Direct on-chain,0.95,Signal,0.5
 EOS,DpoS,21,Delegated,0.25,Delegated with signalling,0.45,None,NA
-Dash,Proof of Service,~5000,Limited,0.1,Influence through funding,0.2,Direct,0.95
+Dash,Proof of Service,~5000,LLMQ,0.5,Influence through funding,0.2,Direct,0.95
 Tezos,DpoS,~110,Direct or delegated,0.7,Direct on-chain,0.7,Foundation,0
 Cosmos,PoS,,,,,,,
 Horizen,Proof of Service,,,0.1,None,NA,Soon,NA
