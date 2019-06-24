@@ -13,8 +13,8 @@ The Smart Contracts Developers will have end-to-end reliable contracts by confir
 Chainlink nodes are not the conventional “stake and forget” nodes that we are used to from various Proof of Stake (“PoS”) coins, which require little to no participation once you have staked them. Chainlink nodes need to offer information which is provided via an API (Application Programming Interface)." (https://medium.com/altcoin-magazine/earning-your-way-in-the-trustless-future-chainlink-ecosystem-101-2922d56c9bfa)
 
 "This means that besides having the node running, you also need to know what you are aiming to offer with your node — which API source you are going to offer data from. There may be some APIs that are offered for free, which can be in demand, but competition from other nodes will be higher due to the low barrier to entry. It is likely that most API sources that will have demand will be the ones you need to pay for — usually annual/monthly purchase of the API keys. Keep in mind that re-selling data via a third party API without an agreement is generally against the Terms of Service of the API, and may result in the API provider cutting your access to the API, which can lead to penalty payments for your node." [https://medium.com/altcoin-magazine/earning-your-way-in-the-trustless-future-chainlink-ecosystem-101-2922d56c9bfa](url)
-
-The Chainlink's testnet has been live since [May 18 2014](https://medium.com/coinmonks/technical-overview-of-the-chainlink-testnet-implementation-c8a0b09276d1). Mainnet will be launched on [May 30 2019](https://www.youtube.com/watch?v=oBjq-cV2BkI).
+ 
+The Chainlink Mainnet launched on [May 30 2019](https://docs.chain.link/docs/create-a-chainlinked-project).
 
  
 
@@ -28,7 +28,7 @@ Chainlink will govern the network through a process it calls validation. The Cha
 
 In the initial, on-chain aggregation system in ChainLink, such monitoring is straightforward, as all oracle activity is visible to CHAINLINK. There is also an off-chain aggregation system envisaged for ChainLink where the oracles themselves perform aggregation. 
 
-Consequently, Chainlink not have direct visibility into oracle responses and cannot itself monitor avail-ability and correctness. Fortunately, oracles digitally sign their responses, and thus, as a side effect, generate non-repudiable evidence of their answers. 
+Consequently, Chainlink does not have direct visibility into oracle responses and cannot itself monitor avail-ability and correctness. Fortunately, oracles digitally sign their responses, and thus, as a side effect, generate non-repudiable evidence of their answers. 
 
 Chainlink’s proposed approach would be to realize the validation service as a smart contract that would reward oracles for submitting evidence of deviating responses.  In other words, oracles would be incentivized to report apparently erroneous behavior. 
 
