@@ -2,7 +2,7 @@
 
 **Overview**
 
-ChainLink is blockchain middleware that allows smart contracts to securely connect to various APIs, resources, and bank accounts. This occurs through the ChainLink Network. The network is a decentralized system of nodes, better known as oracles, which sell usage of APIs and other resources to a smart contract. The selling of data to the contracts is done through the LINK token, an ERC20 token on the Ethereum Blockchain. The ChainLink team is made up of Sergey Nazarov, CEO, and Steve Ellis, CTO, with 6 advisors.
+"ChainLink is blockchain middleware that allows smart contracts to securely connect to various APIs, resources, and bank accounts. This occurs through the ChainLink Network. The network is a decentralized system of nodes, better known as oracles, which sell usage of APIs and other resources to a smart contract. The selling of data to the contracts is done through the LINK token, an ERC20 token on the Ethereum Blockchain. The ChainLink team is made up of Sergey Nazarov, CEO, and Steve Ellis, CTO, with 6 advisors.
 
 Chainlink is [open source](https://github.com/smartcontractkit/chainlink/blob/master/LICENSE), and their upcoming decentralized network of nodes was created with specific token economics to make sure the node operators are incentivized to provide the correct answers, and get rewarded for being honest. Chainlink is designed to benefit all participants in its ecosystem:
 
@@ -10,7 +10,7 @@ The Node Operators will be able to receive LINK tokens as form of payment for pr
 
 The Smart Contracts Developers will have end-to-end reliable contracts by confirming the data feed was pulled from their desired source(s). The API Providers will benefit from a new lucrative way to sell their data.
 
-Chainlink nodes are not the conventional “stake and forget” nodes that we are used to from various Proof of Stake (“PoS”) coins, which require little to no participation once you have staked them. Chainlink nodes need to offer information which is provided via an API (Application Programming Interface).
+Chainlink nodes are not the conventional “stake and forget” nodes that we are used to from various Proof of Stake (“PoS”) coins, which require little to no participation once you have staked them. Chainlink nodes need to offer information which is provided via an API (Application Programming Interface)." (https://medium.com/altcoin-magazine/earning-your-way-in-the-trustless-future-chainlink-ecosystem-101-2922d56c9bfa)
 
 "This means that besides having the node running, you also need to know what you are aiming to offer with your node — which API source you are going to offer data from. There may be some APIs that are offered for free, which can be in demand, but competition from other nodes will be higher due to the low barrier to entry. It is likely that most API sources that will have demand will be the ones you need to pay for — usually annual/monthly purchase of the API keys. Keep in mind that re-selling data via a third party API without an agreement is generally against the Terms of Service of the API, and may result in the API provider cutting your access to the API, which can lead to penalty payments for your node." [https://medium.com/altcoin-magazine/earning-your-way-in-the-trustless-future-chainlink-ecosystem-101-2922d56c9bfa](url)
 
