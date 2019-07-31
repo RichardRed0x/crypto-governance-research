@@ -52,7 +52,7 @@ substrRight <- function(x, n){
   substr(x, nchar(x)-n+1, nchar(x))
 }
 
-eos$startdate = substrRight(eos$url,8)
-eos$startdate = as.Date(eos$startdate, format = "%Y%m%d")
+eos$voting_startdate = substrRight(eos$url,8)
+eos$voting_startdate = as.Date(eos$voting_startdate, format = "%Y%m%d")
 
 
