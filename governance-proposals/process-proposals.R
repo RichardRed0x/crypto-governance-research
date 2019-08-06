@@ -1,9 +1,9 @@
 library(ggplot2)
 library(lubridate)
-setwd("C:\\Users\\richa\\Documents\\GitHub\\crypto-governance-research\\governance-proposals")
 
 
-aragon = read.csv("Aragon-proposals.csv", stringsAsFactors = FALSE)
+
+aragon = read.csv("Aragon-proposals-manual.csv", stringsAsFactors = FALSE)
 aragon$eligible_voters = 39609523.80952380954
 
 aragon$total_votes = aragon$yes_votes+aragon$no_votes
