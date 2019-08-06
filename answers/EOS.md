@@ -1,3 +1,5 @@
+# EOS Governance
+
 ### Where does the governance happen?
 
 EOS governance is the almost exclusive domain of the 21 Block Producers (BPs), with a supermajority of 15/21 BPs required to adopt any change to the consensus rules.
