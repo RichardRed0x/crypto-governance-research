@@ -90,4 +90,19 @@ aragon$approval = (aragon$yes_votes/aragon$total_votes)*100
 aragonround2 = aragon[aragon$voting_startdate == "2019-04-25 00:00",]
 
 
+p.eos = ggplot(eos, aes(voter_participation))+
+  geom_histogram(bins = 20)+
+  xlab("Voter participation %")+
+  ylab("Number of proposals")+
+  ggtitle("EOS proposals (50 most active)")
 
+ggsave("eos-voter-participation.png", width = 9.55, height = 5)
+
+eos$approved = "No"
+eos$approved[((eos$yes_votes - eos$no_votes) > (eos$total_votes/10)) ] = "Yes" 
+
+p.eos.time = ggplot(eos, aes(voting_startdate, voter_participation, colour = approved))+
+  geom_point()+
+  labs(x = "Referendum created", y = "EOS participation", title = "EOS referendums")
+  
+ggsave("eos-voter-participation-time.png", width = 9.55, height = 5)
