@@ -1,18 +1,10 @@
-### Where does the governance happen?
+## Where does the governance happen?
 
-Mostly [on chain](https://tzscan.io/proposals) with Bakers, also to some degree on other sites like [Kialo](https://www.kialo.com/tezos-protocol-amendment-1-25295) and [tezvote](https://tezvote.com/). 
+Formal governance is [on chain](https://tzscan.io/proposals) with Bakers voting to select, approve and adopt changes to the protocol. In August 2019 [Tezos Agora](https://www.tezosagora.org/period/18) launched, it provides an overview of the protocol update cycle and links to a Discourse [forum](https://forum.tezosagora.org/) for discussion. Prior to this discussion of proposals had occurred on [Kialo](https://www.kialo.com/tezos-protocol-amendment-1-25295), [tezvote](https://tezvote.com/) and in chats. 
 
-# Blockchain Governance
+## Consensus 
 
 Tezos uses Proof of Stake consensus and selects "bakers" to produce blocks based on the number of "rolls" of XTZ they have. The minimum roll size is 8,000 XTZ (was initially 10,000 XTZ by was changed to 8,000 following the first [upgrade](https://www.coindesk.com/welcome-to-athens-tezos-completes-historic-first-blockchain-vote) approval) or about $13,360 at 05/21/2019 prices. Holders can also delegate their XTZ to bakers, who use it to add rolls to their stake and improve their chances of being selected to bake - bakers pass some of the reward back to the delegators minus a [fee](https://mytezosbaker.com/) of 5-33%. On May 21 2019 there [are](https://tzscan.io/context) 447.5 million XTZ delegated of a total 564.5 million XTZ staked (79% delegated). 
-
-* *How were/are coins distributed? Was there an ICO? Is there inflation now? Is there a fixed supply?*
-
-The Tezos blockchain mainnet [launched](https://tezos.foundation/news/tezos-mainnet-is-live) on June 30 2018. An initial batch of tokens were pre-sold in an [ICO](https://cointelegraph.com/news/the-history-of-tezos-the-infamous-ico-trying-to-rebound-amidst-lawsuits-and-disputes) in July 2017 which raised 66k BTC and 361k ETH, worth approximately $232 million at the time - these contributions being framed as "[non-refundable donations](https://www.reuters.com/article/us-bitcoin-tezos-refunds/no-refund-for-tezos-contributors-cryptocurrency-broker-says-idUSKBN1DF2JQ)". The Tezos Foundation, established in Switzerland, [received](https://tezos.foundation/history) these ICO funds, with a mandate to give "support to Tezos and related technologies as well as to the Tezos community".
-
-The initial supply was composed of 607 million XTZ for ICO funders and 76 million XTZ for each of the Tezos Foundation and DLS - for a total initial supply of 763 million XTZ. Tezos also has ongoing inflation, with ~42 million XTZ awarded to Bakers each year (or a target of ~5.5% annual inflation). https://messari.io/asset/tezos
-
-Dynamic Ledger Solutions (DLS) is a company [created](https://cointelegraph.com/news/the-history-of-tezos-the-infamous-ico-trying-to-rebound-amidst-lawsuits-and-disputes) by Arthur Breitman in 2015 to hold the rights to Tezos software, and contracted by the Tezos Foundation following the ICO. Stakes in DLS were sold to early investors to raise funds for Tezos before the ICO. 
 
 * *What is the mechanism for ensuring consensus about the state of the blockchain?*
 
@@ -34,11 +26,17 @@ There is only one [implementation](https://gitlab.com/tezos/tezos/) of a Tezos f
 
 <https://tezos.gitlab.io/mainnet/>
 
+## Coin/Token Distribution
 
+- *How were/are coins distributed? Was there an ICO? Is there inflation now? Is there a fixed supply?*
 
-# Funding
+The Tezos blockchain mainnet [launched](https://tezos.foundation/news/tezos-mainnet-is-live) on June 30 2018. An initial batch of tokens were pre-sold in an [ICO](https://cointelegraph.com/news/the-history-of-tezos-the-infamous-ico-trying-to-rebound-amidst-lawsuits-and-disputes) in July 2017 which raised 66k BTC and 361k ETH, worth approximately $232 million at the time - these contributions being framed as "[non-refundable donations](https://www.reuters.com/article/us-bitcoin-tezos-refunds/no-refund-for-tezos-contributors-cryptocurrency-broker-says-idUSKBN1DF2JQ)". The Tezos Foundation, established in Switzerland, [received](https://tezos.foundation/history) these ICO funds, with a mandate to give "support to Tezos and related technologies as well as to the Tezos community".
 
-### How is development funded?
+The initial supply was composed of 607 million XTZ for ICO funders and 76 million XTZ for each of the Tezos Foundation and DLS - for a total initial supply of 763 million XTZ. Tezos also has ongoing inflation, with ~42 million XTZ awarded to Bakers each year (or a target of ~5.5% annual inflation). https://messari.io/asset/tezos
+
+Dynamic Ledger Solutions (DLS) is a company [created](https://cointelegraph.com/news/the-history-of-tezos-the-infamous-ico-trying-to-rebound-amidst-lawsuits-and-disputes) by Arthur Breitman in 2015 to hold the rights to Tezos software, and contracted by the Tezos Foundation following the ICO. Stakes in DLS were sold to early investors to raise funds for Tezos before the ICO. 
+
+## Funding
 
 The Tezos Foundation was established in 2017 to hold most of the ICO proceeds (and some XTZ), with a mandate to use these funds to "support to Tezos and related technologies as well as to the Tezos community". The foundation has a [council](https://tezos.foundation/tezos-foundation-council) of 5 people who steer its direction and how it allocates its capital.
 
@@ -60,7 +58,13 @@ This [article](https://medium.com/tocqueville-group/why-tezos-is-the-best-platfo
 
 #### How is work other than development (e.g. marketing) funded?
 
-As noted above, the Foundation website mentions Research and Education programs, but provides no detail. It seems ecosystem and community partners are being funded.
+Based on the first [Tezos Foundation bi-annual report](https://tezos.foundation/news/tezos-foundation-releases-first-biannual-report) published Aug 2019, since July 2018 the foundation has distributed $37.4 million to 62 entities/projects. 
+
+* $14.1M to Community Grants
+* $14.8M to Research, Education & Core Development Grants
+* $8.5M to Ecosystem - Tools & Applications Grants
+
+People at Tezos are exploring ways to decentralize control of some of the development and ecosystem funding.
 
 ### Related projects
 
